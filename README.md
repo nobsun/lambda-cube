@@ -1,1 +1,1 @@
-# lambda-cube
+# Untyped Lambda Calculus
