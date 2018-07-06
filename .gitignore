@@ -1,0 +1,4 @@
+.stack-work/
+lambda-cube.cabal
+*.log
+*~
