@@ -1,3 +1,3 @@
-# Changelog for lambda-cube
+# Changelog for lambda-untyped
 
 ## Unreleased changes
