@@ -1,4 +1,4 @@
 .stack-work/
-lambda-cube.cabal
+lambda-untyped.cabal
 *.log
 *~
